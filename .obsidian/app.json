@@ -1,0 +1,11 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Attachments",
+  "userIgnoreFilters": [
+    "Excalidraw/",
+    "Attachments/"
+  ],
+  "newFileLocation": "current",
+  "propertiesInDocument": "source"
+}

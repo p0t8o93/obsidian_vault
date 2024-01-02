@@ -1,0 +1,278 @@
+{
+  "main": {
+    "id": "8dfd4894e27f783d",
+    "type": "split",
+    "children": [
+      {
+        "id": "a792cf80cf5bd11a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74782b9e2f78343e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personal Ideas/My Productivity System.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4e688ef9f828b3e7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Zettelkasten Notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8e70a640c5871162",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d0f0be60b16a0fb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54746a24431295ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4028786108f83056",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "912a057e14eca44f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 293.5
+  },
+  "right": {
+    "id": "0140296590704ae6",
+    "type": "split",
+    "children": [
+      {
+        "id": "d67f4e754df43d6d",
+        "type": "tabs",
+        "dimension": 42.805755395683455,
+        "children": [
+          {
+            "id": "c2c31f77e7eae84a",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Zettelkasten Notes.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "-tag:#excalidraw  ",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -0.6,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1.79615384615385,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 12.3284823284823,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6554983534946924,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "c608f1b59281776b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "5bfa6e8bfd5984d7",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6086df20697a7d52",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Zettelkasten Notes.md"
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "0efaf2e15b4269c0",
+        "type": "tabs",
+        "dimension": 57.194244604316545,
+        "children": [
+          {
+            "id": "682713bc43794940",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Zettelkasten Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "96ab50aed5d5da38",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Zettelkasten Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9048ba6f48e77fbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "15804ff016bd66d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Zettelkasten Notes.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 407.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "4e688ef9f828b3e7",
+  "lastOpenFiles": [
+    "Personal Ideas/Publishing my Vault Online.md",
+    "Personal Ideas/How to take Notes.md",
+    "Attachments/Pasted image 20240102103004.png",
+    "Excalidraw/How to take Notes 2023-12-28 09.22.51.excalidraw.md",
+    "Personal Ideas/My Productivity System.md",
+    "Zettelkasten Notes.md",
+    "Daily Notes/01-01-2024.md",
+    "Daily Notes/01-02-2024.md",
+    "Courses Folder/First Year/First Year - Second Semester.md",
+    "Attachments/My Productivity System 2024-01-01 18.18.07.excalidraw.md",
+    "Daily Notes/12-31-2023.md",
+    "Daily Notes/12-29-2023.md",
+    "Daily Notes/12-30-2023.md",
+    "Daily Notes/12-28-2023.md",
+    "Courses Folder/First Year/Second Semester/GEC003 - The Contemporary World/GEC003 - The Contemporary World.md",
+    "Templates/Templates.md",
+    "Templates/DailyNoteTemplate.md",
+    "Templates/Others Template.md",
+    "Templates/Notes Template.md",
+    "Courses Folder/First Year/Second Semester/MATH007 - Differential Calculus/MATH007 - Differential Calculus.md",
+    "Untitled.canvas",
+    "Courses Folder/First Year/Second Semester/MATH015 - Symbolic Logic/MATH015 - Symbolic Logic.md",
+    "Courses Folder/First Year/Second Semester/GEC005 - Purposive Communication/GEC005 - Purposive Communication.md",
+    "Courses Folder/First Year/Second Semester/GEC006 - Art Appreciation/GEC006 - Art Appreciation.md",
+    "Courses Folder/First Year/Second Semester/ITE012 - Computer Programming 2/ITE012 - Computer Programming 2.md",
+    "Testing.md",
+    "Courses Folder/First Year/Second Semester/GEC003 - The Contemporary World/Untitled.md",
+    "Attachments",
+    "Daily Notes",
+    "Courses Folder/First Year/Second Semester/MATH007 - Differential Calculus",
+    "Courses Folder/First Year/Second Semester/ITE012 - Computer Programming 2",
+    "Courses Folder/First Year/Second Semester/MATH015 - Symbolic Logic",
+    "Courses Folder/First Year/Second Semester/GEC006 - Art Appreciation",
+    "Courses Folder/First Year/Second Semester/GEC003 - The Contemporary World",
+    "Courses Folder/First Year/Second Semester/GEC005 - Purposive Communication",
+    "Courses Folder/First Year/Second Semester",
+    "Courses Folder/First Year"
+  ]
+}
