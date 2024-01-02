@@ -9,3 +9,6 @@ Navigate through the Explorer section at the right side or here
 - [[ITE012 - Computer Programming 2]]
 - [[MATH007 - Differential Calculus]]
 - [[MATH015 - Symbolic Logic]]
+
+$$\sum_{i}^{d}\frac{S=1}{3t}$$
+$\sum_{i}^{d}\frac{\prod5\times1}{5t}$
