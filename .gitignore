@@ -1,11 +1,11 @@
-"Daily Notes/"
-"Daily Notes/*"
+"/Daily Notes/"
+"/Daily Notes/*"
 
-"Personal Ideas/"
-"Personal Ideas/*"
+"/Personal Ideas/"
+"/Personal Ideas/*"
 
-"Templates/"
-"Templates/*"
+"/Templates/"
+"/Templates/*"
 
-".obsidian/"
-".obsidian/*"
+"/.obsidian/"
+"/.obsidian/*"
