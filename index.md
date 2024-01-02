@@ -1,6 +1,12 @@
 ---
-title: Welcome to Quartz
+title: Welcome to My Notes
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Navigate through the Explorer section at the right side or here
+
+[[GEC003 - The Contemporary World]]
+[[GEC005 - Purposive Communication]]
+[[GEC006 - Art Appreciation]]
+[[ITE012 - Computer Programming 2]]
+[[MATH007 - Differential Calculus]]
+[[MATH015 - Symbolic Logic
