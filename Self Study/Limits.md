@@ -10,3 +10,9 @@ $$
 \lim_{t\to c}F(t)=L
 $$
 
+Lorem Ipsum something something
+$$
+f(x) = \int_{-\infty}^\infty
+    f\hat(\xi),e^{2 \pi i \xi x}
+    \,d\xi
+$$
