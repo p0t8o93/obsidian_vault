@@ -5,7 +5,7 @@
 >
 >$0<|t-c|<\delta$ implies $|F(t)-L|<\in$
 
-We can write "The limit of F(t) as $t$ approaches $c$ is $L$" as 
+We can write "The limit of $F(t)$ as $t$ approaches $c$ is $L$" as 
 $$
 \lim_{t\to c}F(t)=L
 $$
