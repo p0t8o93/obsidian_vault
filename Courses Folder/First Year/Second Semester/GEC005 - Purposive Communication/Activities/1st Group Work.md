@@ -1,0 +1,6 @@
+# Tip Vision Presentation
+1. **Empowerment through Education**: The vision emphasizes on empowering students with the best globally competitive technological education. This could mean providing them with high-quality education in various fields such as engineering and computing, which are in high demand globally. The aim is to equip these students with the necessary skills and knowledge to compete effectively in the global job market.
+
+2. **Promotion of Filipino Talent**: By focusing on engineering, computing, and allied disciplines, the vision also highlights the promotion of Filipino talent. These fields are not only crucial for the country's development but also provide opportunities for Filipinos to excel both locally and internationally.
+
+3. **Improvement of Quality of Life**: Lastly, the vision aims to improve the quality of life for Filipinos. By providing access to high-quality technological education, the vision seeks to create a better future for Filipinos. This could be interpreted as improving their economic status, increasing their employability, and ultimately leading to a better standard of living.

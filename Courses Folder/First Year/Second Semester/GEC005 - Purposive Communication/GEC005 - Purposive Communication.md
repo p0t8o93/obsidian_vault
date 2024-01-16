@@ -6,3 +6,10 @@ tags:
   - Course
 ---
 # Purposive Communication
+## Syllabus
+## Tasks/Assignments
+**Preliminary**
+- [[Speech]]
+- [[Resume]]
+- [[Application Letter]]
+- [[1st Group Work]]
