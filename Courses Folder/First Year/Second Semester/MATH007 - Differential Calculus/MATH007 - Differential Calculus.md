@@ -8,16 +8,16 @@ tags:
 # Differential Calculus
 ## Syllabus
 **Prelim**
-- Introduction to Functions
+- [[Introduction to Functions]]
 	- Basic Concepts (Definitions, Constants, and Variable, Mapping)
 	- Types of Functions
 		- Algebraic: Polynomial, Rational, Radical Functions
 		- Transcendental: Trigonometric, Inverse Trigonometric, Exponential, Logarithmic, Hyperbolic
 		- Piecewise-Defined
 		- Absolute Value Functions
-	- Domain and Range of Functions
+	- [[Domain and Range|Domain and Range of Functions]]
 	- Graphs of Basic Functions (New Functions from Old Functions)
-- Operations and Properties of Functions
+- [[Operations and Properties of Functions]]
 	- Sum/Difference
 	- Product
 	- Quotient and Composition of Functions and their Domains
