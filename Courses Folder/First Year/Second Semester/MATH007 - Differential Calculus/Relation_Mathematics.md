@@ -8,6 +8,7 @@ tags:
 ---
 # Relation (Mathematics)
 A **relation** is a set of ordered pairs, these ordered pairs are denoted as $(x,y)$ or any letter variable. In a relation there is a [[Domain and Range|domain and range]], where the first value, $x$, is the **domain** or independent variable, and the second value, $y$, is the **range** or dependent variable.
+
 ![[Pasted image 20240120143806.png]]
 ## Examples
 
