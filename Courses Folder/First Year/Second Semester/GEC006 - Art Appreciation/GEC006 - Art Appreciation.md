@@ -9,7 +9,7 @@ tags:
 ## Syllabus
 **Prelim**
 - [[Art Appreciation Terms and Concepts]]
-- [[Categories/Classifications of Art]]
+- [[Classifications of Art]]
 - [[Assumptions of Art]]
 - Functions of Art
 - Philosophical Perspectives of Art
