@@ -29,4 +29,4 @@ $$
 \end{align}
 $$
 
-Continue to [[Operations and Properties of Functions|Operations of Functions]]
+Continue to [[Operations and Properties of Functions|Operations of Functions]], or 

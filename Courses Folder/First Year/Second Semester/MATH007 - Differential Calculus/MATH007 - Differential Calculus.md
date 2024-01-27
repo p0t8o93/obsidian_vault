@@ -44,3 +44,7 @@ tags:
 		- Radical
 		- Functions
 	- Equations of Tangent and Normal Lines
+## Assignments/Task
+**Prelim**:
+- [[Functions Operations Assignment]]
+- 

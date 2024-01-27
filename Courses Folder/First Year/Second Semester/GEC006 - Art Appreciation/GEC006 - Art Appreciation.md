@@ -8,9 +8,9 @@ tags:
 # Art Appreciation
 ## Syllabus
 **Prelim**
-- Art Appreciation Terms and Concepts
-- Categories/Classifications of Art
-- Assumptions of Art
+- [[Art Appreciation Terms and Concepts]]
+- [[Categories/Classifications of Art]]
+- [[Assumptions of Art]]
 - Functions of Art
 - Philosophical Perspectives of Art
 - The Elements of Art and The Principles of Design

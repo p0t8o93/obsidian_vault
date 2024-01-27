@@ -1,3 +1,12 @@
+---
+Course: Differential Calculus
+Course Code: MATH007
+Date Created: 01-21-2024
+Type: Academics
+tags:
+  - math/calculus
+  - math
+---
 # Operations and Properties of Functions
 ## Operations
 $$
@@ -27,9 +36,15 @@ f(x)\times g(x)=(f \times g)(x) &=(4x)(2x+3) \\
 \end{align}
 $$
 ### Division
-$f(x)\div g(x)=(f/g)(x)$
+$$
+f(x)\div g(x)=(f/g)(x)
+$$
 
 ### Composition
 $$
-f(x)~\circ~g(x) \rightarrow f(g(x))
+\begin{align}
+f(x)~\circ~g(x) \rightarrow f(g(x)) \\
+f(g(x))&=4(2x+3) \\
+&=8x+12
+\end{align}
 $$
