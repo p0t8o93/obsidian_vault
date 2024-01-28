@@ -11,8 +11,8 @@ tags:
 - [[Art Appreciation Terms and Concepts]]
 - [[Classifications of Art]]
 - [[Assumptions of Art]]
-- Functions of Art
-- Philosophical Perspectives of Art
+- [[Functions of Art]]
+- [[Philosophical Perspectives of Art]]
 - The Elements of Art and The Principles of Design
 - Subject and Content
 
@@ -30,3 +30,11 @@ tags:
 - Improvisation  
 - Creative Process  
 - Synthesis
+## Quizzes
+**Prelim**:
+- Quiz 1 
+	- [[Art Appreciation Terms and Concepts]]
+	- [[Classifications of Art]]
+	- [[Assumptions of Art]]
+	- [[Functions of Art]]
+	- [[Philosophical Perspectives of Art]]
