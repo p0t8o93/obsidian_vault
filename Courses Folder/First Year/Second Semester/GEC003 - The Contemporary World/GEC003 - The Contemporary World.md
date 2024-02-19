@@ -10,6 +10,7 @@ tags:
 **Prelim**
 - [[1.1 Structures of Globalization]]
 - [[The Globalization of world economics]]
+- [[History of Global Politics]]
 - [[The Roles and functions of the United Nations]]
 
 **Midterm**

@@ -10,9 +10,11 @@ Continuation of Number Theory
 ## Syllabus
 **Prelim**
 - Preliminary on Symbolic Logic
+	- [[Symbolic Logic]]
 	- Propositions
-	- Logical Connectives
-	- Truth Functionality
+	- [[Logical Connectives]]
+	- [[Truth Functionality]]
+	- [[Logical Equivalence]]
 	- Arguments
 		- Validity
 		- Soundness and Classification

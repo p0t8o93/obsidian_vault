@@ -7,6 +7,10 @@ tags:
 ---
 # Purposive Communication
 ## Syllabus
+**Prelim**
+
+- [[Nature of Language]]
+- [[Communication Perspectives]]
 ## Tasks/Assignments
 **Preliminary**
 - [[Speech]]

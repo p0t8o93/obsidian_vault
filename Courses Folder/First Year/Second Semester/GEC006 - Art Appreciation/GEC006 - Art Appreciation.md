@@ -13,7 +13,8 @@ tags:
 - [[Assumptions of Art]]
 - [[Functions of Art]]
 - [[Philosophical Perspectives of Art]]
-- The Elements of Art and The Principles of Design
+- [[The Elements of Art]]
+- [[Principles of Design]]
 - Subject and Content
 
 **Midterm**
