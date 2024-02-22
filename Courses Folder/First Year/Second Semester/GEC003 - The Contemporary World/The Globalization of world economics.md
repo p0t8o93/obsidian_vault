@@ -49,12 +49,12 @@ There is also an increased **speed and frequency of trading**. At present, super
 They stated that globalization when **important populated continents** began to exchange products continuously - both with each other **directly & indirectly** via other continents and in values **sufficient** to generate crucial impacts on all trading partners.
 
 ## International Trading System
-#### Silk Trade (130 BCE - 1453 C.E.)
+#### Silk Trade (130 BCE - 1453 A.D)
 > China, Middle East, Europe
 
 The oldest known international trade route it was closed by the Ottoman Empire. The most **profitable products** traded through this network was **Silk**
 
-#### Galleon Trade (1571)
+#### Galleon Trade (1565 - 1815)
 > Manila of Philippines, Acapulco Mexico
 
 The Galleon Trade was a part of the age of [[mercantilism]]. This was the first time that the **Americans were directly connected to Asian trading routes**. 
@@ -95,4 +95,11 @@ Both institutions remain key players in economic globalization
 
 Shortly after Bretton Woods, General Agreement on Tariffs and Trade (GATT) was created in 1947. The main purpose was to reduce tariffs and other hindrances to free trade.
 
-### Global Keynesianism
+## Neoliberalism and its Discontent
+**Keynesianism** is a economic theory that assumed three things:
+1. Economic crisis occur when a country does not have enough money, but when money is not being spend and, thereby not moving
+2. If the economies slow down then government should infuse money to reinvigorate the market.
+3. Proponent argued that as prices increased, companies would earn more, and would have more money to hire workers.
+
+In the early 1970s, the "oil embargo" by OAPEC and the crashed of the stock markets affected the Western economies. The result was phenomenon that Keynesianism predicted called **stagflation** in which a decline in economic growth and employment (*stagnation*) takes place alongside a sharp increase in prices (*inflation*)
+

@@ -1,7 +1,7 @@
 # History of Global Politics: Creating an International Order
 What does the word *politics mean*?
 
-*Politics* 
+***Politics*** 
 - The activities associated with the governance of a country or other area. especially the debate or conflict among individuals. 
 - The activities of governments concerning the political relations between countries
 - The academic study of government and the state
@@ -71,7 +71,7 @@ Proponents:
 
 Achievement:  Declaration of International women's Day and Labor Day
 
-1. Karl Marx -claimed a premium economic equality among the classes of citizens in the world. 
-2. Friedrich Engels and  Karl Marx established a socialist revolution through a battle cry "Workers of the world, Unite! you have nothing to lose but your chains."     
-3. Vladimir Lenin - established the communist international (Comintern) in 1919 to serve as central body for directing communist parties all over the world. 
-4. Stalin re-stablished the Comintern as Communist Information Bureau (Cominform) in order to direct the various communist parties that had taken power in Eastern Europe.
+1. **Karl Marx** -claimed a premium economic equality among the classes of citizens in the world. 
+2. **Friedrich Engels and  Karl Marx** established a socialist revolution through a battle cry "Workers of the world, Unite! you have nothing to lose but your chains."     
+3. **Vladimir Lenin** - established the communist international (Comintern) in 1919 to serve as central body for directing communist parties all over the world. 
+4. **Stalin** re-stablished the Comintern as Communist Information Bureau (Cominform) in order to direct the various communist parties that had taken power in Eastern Europe.

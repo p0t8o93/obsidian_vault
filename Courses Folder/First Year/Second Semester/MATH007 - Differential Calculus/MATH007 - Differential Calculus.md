@@ -22,7 +22,7 @@ tags:
 	- Product
 	- Quotient and Composition of Functions and their Domains
 	- Inverse Functions, Odd and Even Functions
-- Limit of a Function
+- [[Limit of a Function]]
 	- Graphical Approach
 	- Limit Theorems
 	- Direct-Substitution Property

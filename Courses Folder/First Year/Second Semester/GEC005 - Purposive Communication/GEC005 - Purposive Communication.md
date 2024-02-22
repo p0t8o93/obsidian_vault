@@ -11,6 +11,9 @@ tags:
 
 - [[Nature of Language]]
 - [[Communication Perspectives]]
+- [[Communication Principles]]
+- [[Communication and Globalization]]
+- [[Global Communication in Multicultural Setting Context]]
 ## Tasks/Assignments
 **Preliminary**
 - [[Speech]]
